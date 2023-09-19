@@ -9,6 +9,7 @@ Collection of free icon websites
 - [Feather Icon](https://feathericons.com/)
 - [iconify](https://github.com/iconify/iconify)
 - [Supercons](https://github.com/lachlanjc/supercons)
+- [IconScout](https://iconscout.com/icons)
 
 ## React Icon Package
 - [Ant Design Icon](https://ant.design/components/icon/) by AntFinance (297 icons)
